@@ -5,4 +5,4 @@ and a Proximity Search Model using Positional Index.
 configuration (you can select from the list that is located at the header of software if you are
 using intellij), after selecting configuration file open Main.java file then run the code.
 
--ResearchPapers folder should be in the project folder to read the data
+-Dataset folder should be in the project folder to read the data
